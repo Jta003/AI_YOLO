@@ -1,0 +1,13 @@
+# Python environments and cache
+env/
+.venv/
+__pycache__/
+*.py[cod]
+
+# YOLO training outputs and test videos
+runs/
+*.mov
+*.avi
+
+# Label Studio export (ถ้าชุดข้อมูลใน dataset/ พร้อมใช้แล้ว)
+project-*.json

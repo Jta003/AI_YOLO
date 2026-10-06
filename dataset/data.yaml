@@ -1,0 +1,6 @@
+path: D:\Codeจารรุจิ\AI_YOLO\dataset
+train: images/train
+val: images/val
+
+nc: 3
+names: ['miki_strawberry', 'miki_strawberry_cola', 'milo']
