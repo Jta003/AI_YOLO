@@ -60,6 +60,7 @@ AI_YOLO/
 │   └── data.yaml
 │
 ├── models/
+│   └── best.pt      
 │
 ├── 01-export_dataset.py
 ├── 02-train.py
